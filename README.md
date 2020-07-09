@@ -1,3 +1,5 @@
+![GitHub Logo](audacity-logo.png)
+
 # Conceptual-Audacity-UI-Redesign
 A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in UX &amp; UI design as they relate to human-computer interaction.
 
@@ -8,7 +10,7 @@ A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in
   - [Design Discussion](#Design-Discussion "Design Discussion")
   - [User Assumptions](#User-Assumptions "User Assumptions")
   - [Audacity Redesign Analysis](#Audacity-Redesign-Analysis "Audacity Redesign Analysis")
-  - [Prototype Component Sketches](#Prototype-Component-Sketches "Prototype Component Sketches")
+  - [Final Prototype Component Sketches](#Prototype-Component-Sketches "Prototype Component Sketches")
   - [Usbility Flow & Evaluation](#Usbility-Flow-&-Evaluation "Usbility Flow & Evaluation")
   - [Elementary Action Flow for Digital Prototype](#Elementary-Action-Flow-for-Digital-Prototype "Elementary Action Flow for Digital Prototype")
   - [Redesign in VR](#Redesign-in-VR "Redesign in VR")
