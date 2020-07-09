@@ -2,8 +2,12 @@
 A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in UX &amp; UI design as they relate to human-computer interaction.
 
   - [Introduction](#Introduction "Introduction")
-  - [Paper Prototype Ideation](#Paper Prototype Ideation "Paper Prototype Ideation")
-  - [Design Discussion](#Design Discussion "Design Discussion")
+  - [Paper Prototype Ideation](#Paper-Prototype Ideation "Paper Prototype Ideation")
+  - [Design Discussion](#Design-Discussion "Design Discussion")
+  - [User Assumptions](#User-Assumptions "User Assumptions")
+  - [Audacity Redesign Analysis](#Audacity-Redesign-Analysis "Audacity Redesign Analysis")
+  - [Prototype Component Sketches](#Prototype-Component-Sketches "Prototype Component Sketches")
+  - [Usbility Flow & Evaluation](#Usbility-Flow-&-Evaluation "Usbility Flow & Evaluation")
 
 
 ## Introduction
