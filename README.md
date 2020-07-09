@@ -21,7 +21,9 @@ Audacity is a cross-platform, free and open source digital audio editor (DAW). F
 
 ## Paper Prototype Ideation
 
+![paper-proto-draft1.png](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-draft1.png)
 
+![paper-proto-draft2.png](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-draft2.png)
 
 ## Design Discussion
 
