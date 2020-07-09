@@ -1,13 +1,17 @@
 # Conceptual-Audacity-UI-Redesign
 A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in UX &amp; UI design as they relate to human-computer interaction.
 
+## Contents
+
   - [Introduction](#Introduction "Introduction")
-  - [Paper Prototype Ideation](#Paper-Prototype Ideation "Paper Prototype Ideation")
+  - [Paper Prototype Ideation](#Paper-Prototype-Ideation "Paper Prototype Ideation")
   - [Design Discussion](#Design-Discussion "Design Discussion")
   - [User Assumptions](#User-Assumptions "User Assumptions")
   - [Audacity Redesign Analysis](#Audacity-Redesign-Analysis "Audacity Redesign Analysis")
   - [Prototype Component Sketches](#Prototype-Component-Sketches "Prototype Component Sketches")
   - [Usbility Flow & Evaluation](#Usbility-Flow-&-Evaluation "Usbility Flow & Evaluation")
+  - [Elementary Action Flow for Digital Prototype](#Elementary-Action-Flow-for-Digital-Prototype "Elementary Action Flow for Digital Prototype")
+ 
 
 
 ## Introduction
@@ -165,9 +169,13 @@ Hesitations, breakdowns, and any other indications of difficulty are to be accom
 
 #### Feedback & Critical Incidence
 
+<img src="critical-incidence.png" width="600"/>
 
+#### Reflection
 
-### Elementary Action Flow for Digital Prototype
+	The primary changes we made to our prototype, with the aid our findings from Part A, including new UI buttons for the trimming, (2) export, (4) time shift, and multi tool functions.  We also adopted a new carousel approach to effect pane displays, (5) to allow multiple to be selected at once on a track for better effect parameter multitasking.  As critically isolated in our usability test flow, we are confident that the trimming and export UI button symbols we’ve refined will much better manifest their function as being apparent to the user.  We maintained their location on the interface, as we believe the edit tools are best correlated together and apart from the UI buttons for manipulating project component presence.  That being said, the scissors icon should be more obviously correlated with its trimming functionality, and likewise for the export icon as arrowing from the document sub-icon.  These two UI button replacements will be most relevant in observing for improvement in our next usability test since they are directly called for within the user’s task instructions.
+
+## Elementary Action Flow for Digital Prototype
 
 When a user opens the program, they will be greeted with a welcome screen that asks
 them if they would like to start a new project or open an existing project. Once a project is open, whether it’s new or existing, the user can create new tracks by clicking the “+” button and selecting “Create New... Track.” With a new track created, the user can begin a recording. After having various recordings present, the user can edit them with certain effects. To add a new effect to a recording, the user simply selects the certain recording they wish to edit, clicks the “+” button, clicks on“Create New... Effect,” and select their desired effect, such as “Change pitch” or “Change speed.” All of the related parameters are present along the bottom of the project view and pertain to the current track selected. Once the user is completed with their session, they can save the project by clicking the save icon. If the user has finished editing their project to their liking and would like to share it, they can export their recordings by clicking the export button, naming their file, and selecting their desired file choice such as “.mp3” or “.wav.” The user can exit the workstation by clicking on the exit in the corner. If the user tries to exit with an unsaved project open, they will be asked if they would like to save before exiting.
