@@ -1,6 +1,11 @@
 # Conceptual-Audacity-UI-Redesign
 A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in UX &amp; UI design as they relate to human-computer interaction.
 
+  - [Introduction](#Introduction "Introduction")
+  - [Paper Prototype Ideation](#Paper Prototype Ideation "Paper Prototype Ideation")
+  - [Design Discussion](#Design Discussion "Design Discussion")
+
+
 ## Introduction
 
 Audacity is a cross-platform, free and open source digital audio editor (DAW). Functionally, this DAW boasts track recording and exporting of multiple sources, (including MIDI) playback, and post processing/editing of all types of audio.  Many digital effects and plug-ins are also included, in addition to multitrack mixing and audio spectrum analysis.  Despite being fully featured, it’s UI is notoriously clunky. Specifically it suffers unintuitive front-end design decisions and a blatantly cluttered and outdated visual aesthetic that favors skeuomorphism over contemporary, flat graphic design.  This results in navigation confusion and lowered confidence with respect to ease of use for new users, which includes novice music producers as well as those who are more experienced.  Specific problems and design opportunity needs include: 
@@ -74,7 +79,7 @@ User 2 would have a certain expectation of how a DAW is supposed to look and fun
 
 ### Affinity Diagram
 
-<img src="paper-proto-main.png" width="600"/>
+<img src="affinity-diagram.png" width="600"/>
 
 ### Sequence Model
 
