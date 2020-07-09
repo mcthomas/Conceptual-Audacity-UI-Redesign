@@ -21,9 +21,9 @@ Audacity is a cross-platform, free and open source digital audio editor (DAW). F
 
 ## Paper Prototype Ideation
 
-![paper-proto-draft1.png | width=100](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-draft1.png)
+![paper-proto-draft1.png | width=50](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-draft1.png)
 
-![paper-proto-draft2.png | width=100](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-draft2.png)
+![paper-proto-draft2.png | width=50](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-draft2.png)
 
 ## Design Discussion
 
@@ -53,6 +53,9 @@ User 2 would have a certain expectation of how a DAW is supposed to look and fun
    Improved visual indication and gesture control are among two of the most critical aspects of potential redesign that our contextual inquiries seemed to call for. Visual indicators encompass both the application of effects and generations in their respective context panes as well as basic status indicators for tracks as they appear in the main project view preview. One such need we’ve identified is to streamline the approach to basic track manipulation tools, such as selections and trimming. Rather than having to cycle them with skeuomorphic, small iconed buttons, they should have mouse pointer indicators that present as the user hovers over specific track recordings’ surfaces. This is just one opportunity to minimize the unnecessarily cluttered tool and option selections surrounding the project view. Beyond ease of view, this would increase the likelihood of appropriate function use rather than best-known workarounds for common tasks. Other redesign ideas we’ve reflected on include modularly-stacked effect and generation indicators within the track header view. This would allow the user to make late-term effect tweaks after they’re been applied to tracks, which makes the entire process feel less “final” from the getgo. And in the context of parameterizing the effects, we could introduce visual adaptations of decibel magnitude, variable time, etc. with analogue graphs and particle effects rather than nonvisually-descriptive numeric fields. Furthermore, seeing color coded track portion indicators for the effects and generations would more easily indicate what was already manipulated. Another obvious redesign demand is mapping the zoom tool to the trackpad/mouse wheel. Such a simple action shouldn’t require clicking one of two small UI buttons every time. Making all of these changes in tandem with an aesthetic overhaul should begin to remedy some of the problem areas we observed among the participants’ experiences with the given tasks.
    
 ## Prototype Component Sketches
+
+![paper-proto-components.png | width=50](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-components.png)
+![paper-proto-main.png | width=50](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-main.png)
 
 ## Prototype Models / Diagrams / Sequences
 
