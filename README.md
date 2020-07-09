@@ -21,9 +21,12 @@ Audacity is a cross-platform, free and open source digital audio editor (DAW). F
 
 ## Paper Prototype Ideation
 
-![paper-proto-draft1.png | width=50](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-draft1.png)
 
-![paper-proto-draft2.png | width=50](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-draft2.png)
+<img src="paper-proto-draft1.png" width="600"/>
+
+
+<img src="paper-proto-draft2.png" width="600"/>
+
 
 ## Design Discussion
 
@@ -54,8 +57,18 @@ User 2 would have a certain expectation of how a DAW is supposed to look and fun
    
 ## Prototype Component Sketches
 
-![paper-proto-components.png | width=50](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-components.png)
-![paper-proto-main.png | width=50](https://github.com/mcthomas/Conceptual-Audacity-UI-Redesign/blob/master/paper-proto-main.png)
+
+### UI Components
+
+
+<img src="paper-proto-components.png" width="600"/>
+
+
+### Primary View
+
+
+<img src="ppaper-proto-main.png" width="600"/>
+
 
 ## Prototype Models / Diagrams / Sequences
 
