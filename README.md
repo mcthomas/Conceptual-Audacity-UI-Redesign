@@ -67,10 +67,50 @@ User 2 would have a certain expectation of how a DAW is supposed to look and fun
 ### Primary View
 
 
-<img src="ppaper-proto-main.png" width="600"/>
+<img src="paper-proto-main.png" width="600"/>
 
 
 ## Prototype Models / Diagrams / Sequences
+
+### Sequence Model
+
+#### Title: creating a simple audio track, changing pitch, and exporting file as .mp3
+
+##### Intent: Add a new stereo track
+##### Trigger: wants to find record button 
+User searches for a big red button
+User clicks on the big red button and starts recording
+User clicks on the big red button again to stop recording
+
+##### Intent: change the pitch of a segment of the recording
+##### Trigger: wants to highlight a segment of the recording
+User hovers cursor over the start of the segment
+User holds down left button and drags across the recording to the end of the segment
+User lets go of left mouse button
+
+##### Trigger: Wants to find pitch alteration function
+User searches for the effects drop down menu from the top control panel
+User clicks on the drop down menu to expand it
+User searches for a pitch alteration function
+User finds it and left clicks it
+
+##### Trigger: Pitch alteration interface popped up, user wants to change pitch
+User drags a vertical/ horizontal slide button to change pitch
+User clicks on a “play” button on the interface to listen to the altered audio segment
+User is satisfied and clicks on the “confirm” button on the interface 
+
+##### Intent: export file as MP3
+##### Trigger: wants to pull up “export” interface
+User searches the left most side of the top control panel for “project” drop down menu and left clicks it
+User searches for export button, and left clicks it
+
+##### Trigger: User wants to export recording as mp3
+User clicks on the default file name and retypes the desired file name
+User clicks on the drop down menu below the file name bar and searches for .mp3, then clicks it
+User clicks confirm on the bottom right of the “export” interface
+
+##### Task complete
+
 
 ## Usbility Flow & Evaluation
 
