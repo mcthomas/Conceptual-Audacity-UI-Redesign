@@ -72,6 +72,10 @@ User 2 would have a certain expectation of how a DAW is supposed to look and fun
 
 ## Prototype Models / Diagrams / Sequences
 
+### Affinity Diagram
+
+<img src="paper-proto-main.png" width="600"/>
+
 ### Sequence Model
 
 #### Title: creating a simple audio track, changing pitch, and exporting file as .mp3
@@ -110,6 +114,22 @@ User clicks on the drop down menu below the file name bar and searches for .mp3,
 User clicks confirm on the bottom right of the “export” interface
 
 ##### Task complete
+
+### Physical Model
+
+<img src="physical-model.png" width="600"/>
+
+### Flow Model
+
+<img src="flow-model.png" width="600"/>
+
+### Artifact Model
+
+<img src="artifact-model.png" width="600"/>
+
+### Cultural Model
+
+<img src="cultural-model.png" width="600"/>
 
 
 ## Usbility Flow & Evaluation
