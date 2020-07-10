@@ -38,6 +38,7 @@ Audacity is a cross-platform, free and open source digital audio editor (DAW). F
 - Generations should be visually scalable and not just quantified from the get-go
 - Improving the UX would make the workstation much more approachable and intuitive for beginner and seasoned producers, as it is otherwise highly functional.  The contextual inquiry will be conducted in the user’s home context or preferred typical workspace, on their computer.
 
+
 ## Paper Prototype Ideation
 
 
@@ -52,6 +53,7 @@ Audacity is a cross-platform, free and open source digital audio editor (DAW). F
 Improved visual indication and gesture control were at the forefront of comparison criteria we took into account when comparing our two sketches, as our contextual inquiries demanded such improvements. Visual indicators encompass both the application of effects and generations in their respective context panes as well as basic status indicators for tracks as they appear in the main project view preview.  One design change we’d like to implement from sketch #1 is the inclusion of the mixer controls, possibly in a lower panel pane.  This would more clearly lay out each track’s basic control parameters to build an aesthetic that is more musically-metaphorical.  Another such need we’ve settled upon is to streamline the approach to basic track manipulation tools, such as selections and trimming.  Rather than having to cycle them with skeuomorphic, small iconed buttons, sketch #2 envisions how they could be supplemented with mouse pointer indicators that present as the user hovers over specific track recordings’ surfaces.  This will minimize the unnecessarily cluttered tool and option selections surrounding the project view.  Beyond ease of view, this will increase the likelihood of appropriate function use rather than best-known workarounds for common tasks.  Other redesign ideas we’d like to implement from sketch #2 include modularly-stacked effect and generation indicators within the track header view.  This would allow the user to make late-term effect tweaks after they’re been applied to tracks, in the lower pane, which makes the entire process feel less “final” from the getgo.  Including those (color coded) lines spanning the tracks to correlate the selected effects will improve visual clarity.  And in the context of parameterizing the effects, we could introduce visual adaptations of decibel magnitude, variable time, etc. with analogue graphs and particle effects rather than non visually-descriptive numeric fields.  
 
 Furthermore, seeing color coded track portion indicators for the effects and generations would more easily indicate what was already manipulated.  Another overhaul from the second sketch was mapping the zoom tool to the trackpad/mouse wheel.  Though we still included the buttons as an optional override.  With respect to the track view, we’d like to collapse the size to remove bloat, as indicated in both sketches.  The track headers may coincide with the adaptation chosen for sketch #2.  Along the top of the project window, sketch #2 indicates BPM and time signature indicators to help more traditional musicians feel accomodated.  One final de-cluttering concept materialized in sketch #2 is the + and - buttons.  These UI elements are all-inclusive functions for expanding dropdowns/side expansions for adding new tracks, effects, generations, or even a new project.  Other menubar parameters may be grouped into these functions at some point.  We are confident that all of these changes, which were almost entirely selected from sketch #2 (which we’ve chosen as the preferred model design, for the reasons previously mentioned) in tandem with the aesthetic overhaul should begin to remedy some of the problem areas we observed among the participants’ experiences with the given tasks.
+
 
 ## User Assumptions
 
@@ -73,6 +75,7 @@ User 2 would have a certain expectation of how a DAW is supposed to look and fun
    Other tasks, such as renaming or deleting individual tracks entirely, was fairly easy for the users since these options could be identified and changed directly on the track header sidebar. With respect to effects, we chose to assess menubar navigation and the associated context panes by asking the user to change track portions’ pitches and speeds. Applying the effects didn’t initially seem well understood to the users with respect to their permanence or their expected prevalence in the track, based solely on just the numeric fields and dropdown options allotted before applying. This resulted in a few attempts and undos before they were satisfied with their approach to the task. Moreover, undo was used (both from the “edit” menubar option and the keybinding) heavily as a band-aid for frequent mouse-clicks and for reapplying effects. This was a very common indicator of accidental errors such as collapsing the track preview, applying an effect with inaccurate parameters, zooming too far in one direction, etc. On the topic of the zoom tool, it was a parallel occurrence. The user easily zoomed in too far and had to either pan back to the desired portion of the timeline for cutting or effects, or undo their action. This was made more difficult by the stubborn autoscroll function, which wasn’t a user action that could be simply undone when trying to isolate a starting point of cutting or inserting track portions. The discontinuities that disallowed seamless visual editing, as a consequence of parameterized context panes for effects and other functions, helped us reflect on which aspects of Audacity need to be reassessed and redesigned.
    
    Improved visual indication and gesture control are among two of the most critical aspects of potential redesign that our contextual inquiries seemed to call for. Visual indicators encompass both the application of effects and generations in their respective context panes as well as basic status indicators for tracks as they appear in the main project view preview. One such need we’ve identified is to streamline the approach to basic track manipulation tools, such as selections and trimming. Rather than having to cycle them with skeuomorphic, small iconed buttons, they should have mouse pointer indicators that present as the user hovers over specific track recordings’ surfaces. This is just one opportunity to minimize the unnecessarily cluttered tool and option selections surrounding the project view. Beyond ease of view, this would increase the likelihood of appropriate function use rather than best-known workarounds for common tasks. Other redesign ideas we’ve reflected on include modularly-stacked effect and generation indicators within the track header view. This would allow the user to make late-term effect tweaks after they’re been applied to tracks, which makes the entire process feel less “final” from the getgo. And in the context of parameterizing the effects, we could introduce visual adaptations of decibel magnitude, variable time, etc. with analogue graphs and particle effects rather than nonvisually-descriptive numeric fields. Furthermore, seeing color coded track portion indicators for the effects and generations would more easily indicate what was already manipulated. Another obvious redesign demand is mapping the zoom tool to the trackpad/mouse wheel. Such a simple action shouldn’t require clicking one of two small UI buttons every time. Making all of these changes in tandem with an aesthetic overhaul should begin to remedy some of the problem areas we observed among the participants’ experiences with the given tasks.
+   
    
 ## Final Paper Prototype Component Sketches
 
@@ -181,11 +184,12 @@ Hesitations, breakdowns, and any other indications of difficulty are to be accom
 
 The primary changes we made to our prototype, with the aid our findings from Part A, including new UI buttons for the trimming, (2) export, (4) time shift, and multi tool functions.  We also adopted a new carousel approach to effect pane displays, (5) to allow multiple to be selected at once on a track for better effect parameter multitasking.  As critically isolated in our usability test flow, we are confident that the trimming and export UI button symbols we’ve refined will much better manifest their function as being apparent to the user.  We maintained their location on the interface, as we believe the edit tools are best correlated together and apart from the UI buttons for manipulating project component presence.  That being said, the scissors icon should be more obviously correlated with its trimming functionality, and likewise for the export icon as arrowing from the document sub-icon.  These two UI button replacements will be most relevant in observing for improvement in our next usability test since they are directly called for within the user’s task instructions.
 
+
 ## Digital Prototype Component Images
 
 <img src="welcome-screen.png" width="500"/>
 
-<img src="sample-project.PNG"/>
+<img src="sample-project.PNG" width="600"/>
 
 <img src="create-new-overlay.png" width="300"/>
 
@@ -204,11 +208,13 @@ When a user opens the program, they will be greeted with a welcome screen that a
 
 Currently, our InVision prototype allows the user to navigate to view a sample project, or to create a new project.  On the new project screen, the user can open the “export” dialogue drop down menu, and close it, or that of the “+” (new) UI button.  If the user selects “Track” in this latter sub menu, they will see a new track header present.  Hitting the record UI button will then populate a new recording.
 
+
 ## Interactive Digital UI Prototype
 
 ### Select the gif below to navigate to the InVision prototype.  It was only partially implemented but includes a few clickable screens:
 
 [![InVision Prototype](invision-demo.gif)](https://invis.io/4AWB519EX9N)
+
 
 ## Redesign in VR
 
