@@ -1,4 +1,4 @@
-<img src="audacity-logo.png" width="300"/>
+<img src="resources/audacity-logo.png" width="300"/>
 
 # Conceptual-Audacity-UI-Redesign
 A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in UX &amp; UI design as they relate to human-computer interaction.  This documentation comprises several group projects that I led in academia, with Rose Tokar and Jun Lin Tan.
@@ -42,10 +42,10 @@ Audacity is a cross-platform, free and open source digital audio editor (DAW). F
 ## Paper Prototype Ideation
 
 
-<img src="paper-proto-draft1.png" width="600"/>
+<img src="resources/paper-proto-draft1.png" width="600"/>
 
 
-<img src="paper-proto-draft2.png" width="600"/>
+<img src="resources/paper-proto-draft2.png" width="600"/>
 
 
 ## Design Discussion
@@ -83,20 +83,20 @@ User 2 would have a certain expectation of how a DAW is supposed to look and fun
 ### UI Components
 
 
-<img src="paper-proto-components.png" width="600"/>
+<img src="resources/paper-proto-components.png" width="600"/>
 
 
 ### Primary View
 
 
-<img src="paper-proto-main.png" width="600"/>
+<img src="resources/paper-proto-main.png" width="600"/>
 
 
 ## Prototype Models
 
 ### Affinity Diagram
 
-<img src="affinity-diagram.png" width="600"/>
+<img src="resources/affinity-diagram.png" width="600"/>
 
 ### Sequence Model
 
@@ -139,19 +139,19 @@ User clicks confirm on the bottom right of the “export” interface
 
 ### Physical Model
 
-<img src="physical-model.png" width="600"/>
+<img src="resources/physical-model.png" width="600"/>
 
 ### Flow Model
 
-<img src="flow-model.png" width="600"/>
+<img src="resources/flow-model.png" width="600"/>
 
 ### Artifact Model
 
-<img src="artifact-model.png" width="600"/>
+<img src="resources/artifact-model.png" width="600"/>
 
 ### Cultural Model
 
-<img src="cultural-model.png" width="600"/>
+<img src="resources/cultural-model.png" width="600"/>
 
 
 ## Usbility Flow & Evaluation
@@ -178,7 +178,7 @@ Hesitations, breakdowns, and any other indications of difficulty are to be accom
 
 #### Feedback & Critical Incidence
 
-<img src="critical-incidence.png" width="300"/>
+<img src="resources/critical-incidence.png" width="300"/>
 
 #### Reflection
 
@@ -187,19 +187,27 @@ The primary changes we made to our prototype, with the aid our findings from Par
 
 ## Digital Prototype Component Images
 
-<img src="welcome-screen.png" width="500"/>
+<img src="resources/welcome-screen.png" width="500"/>
 
+<<<<<<< HEAD
+<img src="resources/sample-project.png"/>
+=======
 <img src="sample-project.PNG" width="600"/>
+>>>>>>> bf5117323241afd7d68fcf60c7f4331a5c281d87
 
-<img src="create-new-overlay.png" width="300"/>
+<img src="resources/create-new-overlay.png" width="300"/>
 
+<<<<<<< HEAD
+<img src="resources/new-effect-overlay.png" width="300"/>
+=======
 <img src="new-effect-overlay.PNG" width="300"/>
+>>>>>>> bf5117323241afd7d68fcf60c7f4331a5c281d87
 
-<img src="remove-overlay.png" width="300"/>
+<img src="resources/remove-overlay.png" width="300"/>
 
-<img src="eq-overlay.png" width="300"/>
+<img src="resources/eq-overlay.png" width="300"/>
 
-<img src="pitch-overlay.png" width="300"/>
+<img src="resources/pitch-overlay.png" width="300"/>
 
 
 ## Elementary Action Flow for Digital Prototype
@@ -213,7 +221,7 @@ Currently, our InVision prototype allows the user to navigate to view a sample p
 
 ### Select the gif below to navigate to the InVision prototype.  It was only partially implemented but includes a few clickable screens:
 
-[![InVision Prototype](invision-demo.gif)](https://invis.io/4AWB519EX9N)
+[![InVision Prototype](resources/invision-demo.gif)](https://invis.io/4AWB519EX9N)
 
 
 ## Redesign in VR
@@ -244,5 +252,5 @@ On the Welcome screen, users are able to choose to open an existing project or a
 
 #### Select the gif below to navigate to the YouTube clip:
 
-[![Concept Video](concept-video.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Concept Video](resources/concept-video.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
