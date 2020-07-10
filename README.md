@@ -12,7 +12,7 @@ A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in
   - [Audacity Redesign Analysis](#Audacity-Redesign-Analysis "Audacity Redesign Analysis")
   - [Final Paper Prototype Component Sketches](#Final-Paper-Prototype-Component-Sketches "Final Paper Prototype Component Sketches")
   - [Prototype Models](#Prototype-Models "Prototype Models")
-  - [Usability Flow & Evaluation](#Usability-Flow-&-Evaluation "Usability Flow & Evaluation")
+  - [Usability Flow & Evaluation](#usability-flow--evaluation "Usability Flow & Evaluation")
   - [Digital Prototype Component Images](#Digital-Prototype-Component-Images "Digital Prototype Component Images")
   - [Elementary Action Flow for Digital Prototype](#Elementary-Action-Flow-for-Digital-Prototype "Elementary Action Flow for Digital Prototype")
   - [Interactive Digital UI Prototype](#Interactive-Digital-UI-Prototype "Interactive Digital UI Prototype")
@@ -191,11 +191,7 @@ The primary changes we made to our prototype, with the aid our findings from Par
 
 <img src="resources/sample-project.png" width="600"/>
 
-<img src="resources/sample-project.png" width="600"/>
-
 <img src="resources/create-new-overlay.png" width="300"/>
-
-<img src="resources/new-effect-overlay.png" width="300"/>
 
 <img src="resources/new-effect-overlay.png" width="300"/>
 
