@@ -222,6 +222,5 @@ On the Welcome screen, users are able to choose to open an existing project or a
 
 #### Select the gif below to navigate to the YouTube clip:
 
-[![Concept Video](concept-video.gif)](https://www.youtube.com/watch?v=9q7DlhG5hSE "Concept Video")
-[![Demo CountPages alpha](concept-video.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Concept Video](concept-video.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
