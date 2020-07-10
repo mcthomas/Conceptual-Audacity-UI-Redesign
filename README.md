@@ -10,9 +10,11 @@ A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in
   - [Design Discussion](#Design-Discussion "Design Discussion")
   - [User Assumptions](#User-Assumptions "User Assumptions")
   - [Audacity Redesign Analysis](#Audacity-Redesign-Analysis "Audacity Redesign Analysis")
-  - [Final Prototype Component Sketches](#Prototype-Component-Sketches "Prototype Component Sketches")
+  - [Final Paper Prototype Component Sketches](#Final-Paper-Prototype-Component-Sketches "Final Paper Prototype Component Sketches")
+  - [Prototype Models / Diagrams / Sequences](#Prototype-Models-/-Diagrams-/-Sequences "Prototype Models / Diagrams / Sequences")
   - [Usbility Flow & Evaluation](#Usbility-Flow-&-Evaluation "Usbility Flow & Evaluation")
   - [Elementary Action Flow for Digital Prototype](#Elementary-Action-Flow-for-Digital-Prototype "Elementary Action Flow for Digital Prototype")
+  - [Interactive Digital UI Prototype](#Interactive-Digital-UI-Prototype "Interactive Digital UI Prototype")
   - [Redesign in VR](#Redesign-in-VR "Redesign in VR")
  
 
@@ -71,7 +73,7 @@ User 2 would have a certain expectation of how a DAW is supposed to look and fun
    
    Improved visual indication and gesture control are among two of the most critical aspects of potential redesign that our contextual inquiries seemed to call for. Visual indicators encompass both the application of effects and generations in their respective context panes as well as basic status indicators for tracks as they appear in the main project view preview. One such need we’ve identified is to streamline the approach to basic track manipulation tools, such as selections and trimming. Rather than having to cycle them with skeuomorphic, small iconed buttons, they should have mouse pointer indicators that present as the user hovers over specific track recordings’ surfaces. This is just one opportunity to minimize the unnecessarily cluttered tool and option selections surrounding the project view. Beyond ease of view, this would increase the likelihood of appropriate function use rather than best-known workarounds for common tasks. Other redesign ideas we’ve reflected on include modularly-stacked effect and generation indicators within the track header view. This would allow the user to make late-term effect tweaks after they’re been applied to tracks, which makes the entire process feel less “final” from the getgo. And in the context of parameterizing the effects, we could introduce visual adaptations of decibel magnitude, variable time, etc. with analogue graphs and particle effects rather than nonvisually-descriptive numeric fields. Furthermore, seeing color coded track portion indicators for the effects and generations would more easily indicate what was already manipulated. Another obvious redesign demand is mapping the zoom tool to the trackpad/mouse wheel. Such a simple action shouldn’t require clicking one of two small UI buttons every time. Making all of these changes in tandem with an aesthetic overhaul should begin to remedy some of the problem areas we observed among the participants’ experiences with the given tasks.
    
-## Prototype Component Sketches
+## Final Paper Prototype Component Sketches
 
 
 ### UI Components
@@ -172,7 +174,7 @@ Hesitations, breakdowns, and any other indications of difficulty are to be accom
 
 #### Feedback & Critical Incidence
 
-<img src="critical-incidence.png" width="600"/>
+<img src="critical-incidence.png" width="300"/>
 
 #### Reflection
 
@@ -184,8 +186,15 @@ When a user opens the program, they will be greeted with a welcome screen that a
 
 Currently, our InVision prototype allows the user to navigate to view a sample project, or to create a new project.  On the new project screen, the user can open the “export” dialogue drop down menu, and close it, or that of the “+” (new) UI button.  If the user selects “Track” in this latter sub menu, they will see a new track header present.  Hitting the record UI button will then populate a new recording.
 
+## Interactive Digital UI Prototype
+
+### Select the gif below to navigate to the InVision prototype:
+
+
 
 ## Redesign in VR
+
+
 
 ### Introduction
 
