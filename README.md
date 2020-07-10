@@ -189,19 +189,15 @@ The primary changes we made to our prototype, with the aid our findings from Par
 
 <img src="resources/welcome-screen.png" width="500"/>
 
-<<<<<<< HEAD
-<img src="resources/sample-project.png"/>
-=======
+<img src="resources/sample-project.PNG" width="600"/>
+
 <img src="sample-project.PNG" width="600"/>
->>>>>>> bf5117323241afd7d68fcf60c7f4331a5c281d87
 
-<img src="resources/create-new-overlay.png" width="300"/>
+<img src="resources/create-new-overlay.PNG" width="300"/>
 
-<<<<<<< HEAD
 <img src="resources/new-effect-overlay.png" width="300"/>
-=======
+
 <img src="new-effect-overlay.PNG" width="300"/>
->>>>>>> bf5117323241afd7d68fcf60c7f4331a5c281d87
 
 <img src="resources/remove-overlay.png" width="300"/>
 
