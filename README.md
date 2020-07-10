@@ -11,9 +11,9 @@ A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in
   - [User Assumptions](#User-Assumptions "User Assumptions")
   - [Audacity Redesign Analysis](#Audacity-Redesign-Analysis "Audacity Redesign Analysis")
   - [Final Paper Prototype Component Sketches](#Final-Paper-Prototype-Component-Sketches "Final Paper Prototype Component Sketches")
-  - [Prototype Models / Diagrams / Sequences](#Prototype-Models-/-Diagrams-/-Sequences "Prototype Models / Diagrams / Sequences")
-  - [Usbility Flow & Evaluation](#Usbility-Flow-&-Evaluation "Usbility Flow & Evaluation")
-  - [Digital Prototype Component Sketches](#Digital-Prototype-Component-Sketches "Digital Prototype Component Sketches")
+  - [Prototype Models](#Prototype-Models "Prototype Models")
+  - [Usbility Flow & Evaluation](#Usability-Flow-&-Evaluation "Usbility Flow & Evaluation")
+  - [Digital Prototype Component Images](#Digital-Prototype-Component-Images "Digital Prototype Component Images")
   - [Elementary Action Flow for Digital Prototype](#Elementary-Action-Flow-for-Digital-Prototype "Elementary Action Flow for Digital Prototype")
   - [Interactive Digital UI Prototype](#Interactive-Digital-UI-Prototype "Interactive Digital UI Prototype")
   - [Redesign in VR](#Redesign-in-VR "Redesign in VR")
@@ -89,7 +89,7 @@ User 2 would have a certain expectation of how a DAW is supposed to look and fun
 <img src="paper-proto-main.png" width="600"/>
 
 
-## Prototype Models / Diagrams / Sequences
+## Prototype Models
 
 ### Affinity Diagram
 
@@ -181,21 +181,21 @@ Hesitations, breakdowns, and any other indications of difficulty are to be accom
 
 The primary changes we made to our prototype, with the aid our findings from Part A, including new UI buttons for the trimming, (2) export, (4) time shift, and multi tool functions.  We also adopted a new carousel approach to effect pane displays, (5) to allow multiple to be selected at once on a track for better effect parameter multitasking.  As critically isolated in our usability test flow, we are confident that the trimming and export UI button symbols we’ve refined will much better manifest their function as being apparent to the user.  We maintained their location on the interface, as we believe the edit tools are best correlated together and apart from the UI buttons for manipulating project component presence.  That being said, the scissors icon should be more obviously correlated with its trimming functionality, and likewise for the export icon as arrowing from the document sub-icon.  These two UI button replacements will be most relevant in observing for improvement in our next usability test since they are directly called for within the user’s task instructions.
 
-## Digital Prototype Component Sketches
+## Digital Prototype Component Images
 
 <img src="welcome-screen.png" width="500"/>
 
-<img src="sample-project.jpg" width="600"/>
+<img src="sample-project.png" width="600"/>
 
 <img src="create-new-overlay.png" width="300"/>
 
-<img src="new-effect-overlay.jpg" width="300"/>
+<img src="new-effect-overlay.png" width="300"/>
 
-<img src="remove-overlay.jpg" width="300"/>
+<img src="remove-overlay.png" width="300"/>
 
-<img src="eq-overlay.jpg" width="300"/>
+<img src="eq-overlay.png" width="300"/>
 
-<img src="pitch-overlay.jpg" width="300"/>
+<img src="pitch-overlay.png" width="300"/>
 
 
 ## Elementary Action Flow for Digital Prototype
