@@ -185,11 +185,11 @@ The primary changes we made to our prototype, with the aid our findings from Par
 
 <img src="welcome-screen.png" width="500"/>
 
-<img src="sample-project.png"/>
+<img src="sample-project.PNG"/>
 
 <img src="create-new-overlay.png" width="300"/>
 
-<img src="new-effect-overlay.png" width="300"/>
+<img src="new-effect-overlay.PNG" width="300"/>
 
 <img src="remove-overlay.png" width="300"/>
 
