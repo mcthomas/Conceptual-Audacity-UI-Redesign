@@ -1,7 +1,7 @@
 <img src="audacity-logo.png" width="300"/>
 
 # Conceptual-Audacity-UI-Redesign
-A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in UX &amp; UI design as they relate to human-computer interaction.  This project comprises several group projects that I led in academia, with Rose Tokar and Jun Lin Tan.
+A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in UX &amp; UI design as they relate to human-computer interaction.  This documentation comprises several group projects that I led in academia, with Rose Tokar and Jun Lin Tan.
 
 ## Contents
 
@@ -12,7 +12,7 @@ A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in
   - [Audacity Redesign Analysis](#Audacity-Redesign-Analysis "Audacity Redesign Analysis")
   - [Final Paper Prototype Component Sketches](#Final-Paper-Prototype-Component-Sketches "Final Paper Prototype Component Sketches")
   - [Prototype Models](#Prototype-Models "Prototype Models")
-  - [Usbility Flow & Evaluation](#Usability-Flow-&-Evaluation "Usbility Flow & Evaluation")
+  - [Usbility Flow & Evaluation](#Usability-Flow-&-Evaluation "Usability Flow & Evaluation")
   - [Digital Prototype Component Images](#Digital-Prototype-Component-Images "Digital Prototype Component Images")
   - [Elementary Action Flow for Digital Prototype](#Elementary-Action-Flow-for-Digital-Prototype "Elementary Action Flow for Digital Prototype")
   - [Interactive Digital UI Prototype](#Interactive-Digital-UI-Prototype "Interactive Digital UI Prototype")
@@ -206,13 +206,11 @@ Currently, our InVision prototype allows the user to navigate to view a sample p
 
 ## Interactive Digital UI Prototype
 
-### Select the image below to navigate to the InVision prototype.  It was only partially implemented but includes a few clickable screens:
+### Select the gif below to navigate to the InVision prototype.  It was only partially implemented but includes a few clickable screens:
 
-
+[![InVision Prototype](invision-demo.gif)](https://invis.io/4AWB519EX9N)
 
 ## Redesign in VR
-
-
 
 ### Introduction
 
