@@ -1,7 +1,7 @@
 <img src="resources/audacity-logo.png" width="300"/>
 
 # Conceptual-Audacity-UI-Redesign
-A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in UX &amp; UI design as they relate to human-computer interaction.  This documentation comprises several group projects that I led in academia, with Rose Tokar and Jun Lin Tan.
+A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in UX &amp; UI design as they relate to human-computer interaction.  This documentation comprises several group projects that I led in academia, with [Rose Tokar](rtokar@wisc.edu) and [Jun Lin Tan](tan65@wisc.edu).
 
 ## Contents
 
