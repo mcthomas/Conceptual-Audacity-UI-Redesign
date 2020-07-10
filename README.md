@@ -183,19 +183,19 @@ The primary changes we made to our prototype, with the aid our findings from Par
 
 ## Digital Prototype Component Sketches
 
-<img src="welcome-screen.png" width="300"/>
+<img src="welcome-screen.png" width="500"/>
 
-<img src="sample-project.png" width="600"/>
+<img src="sample-project.jpg" width="600"/>
 
 <img src="create-new-overlay.png" width="300"/>
 
-<img src="new-effect-overlay.png" width="300"/>
+<img src="new-effect-overlay.jpg" width="300"/>
 
-<img src="remove-overlay.png" width="300"/>
+<img src="remove-overlay.jpg" width="300"/>
 
-<img src="eq-overlay.png" width="300"/>
+<img src="eq-overlay.jpg" width="300"/>
 
-<img src="pitch-overlay.png" width="300"/>
+<img src="pitch-overlay.jpg" width="300"/>
 
 
 ## Elementary Action Flow for Digital Prototype
