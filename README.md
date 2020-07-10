@@ -1,4 +1,4 @@
-![GitHub Logo](audacity-logo.png)
+<img src="audacity-logo.png" width="300"/>
 
 # Conceptual-Audacity-UI-Redesign
 A conceptual UI overhaul and redesign for Audacity, to demonstrate principles in UX &amp; UI design as they relate to human-computer interaction.
