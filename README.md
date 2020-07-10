@@ -154,7 +154,7 @@ User clicks confirm on the bottom right of the “export” interface
 <img src="resources/cultural-model.png" width="600"/>
 
 
-## Usbility Flow & Evaluation
+## Usability Flow & Evaluation
 
 ### Action Flow for Paper Prototype
 
@@ -189,15 +189,15 @@ The primary changes we made to our prototype, with the aid our findings from Par
 
 <img src="resources/welcome-screen.png" width="500"/>
 
-<img src="resources/sample-project.PNG" width="600"/>
+<img src="resources/sample-project.png" width="600"/>
 
 <img src="resources/sample-project.png" width="600"/>
 
-<img src="resources/create-new-overlay.PNG" width="300"/>
+<img src="resources/create-new-overlay.png" width="300"/>
 
 <img src="resources/new-effect-overlay.png" width="300"/>
 
-<img src="resources/new-effect-overlay.PNG" width="300"/>
+<img src="resources/new-effect-overlay.png" width="300"/>
 
 <img src="resources/remove-overlay.png" width="300"/>
 
