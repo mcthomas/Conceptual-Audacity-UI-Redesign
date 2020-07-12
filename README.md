@@ -244,5 +244,5 @@ On the Welcome screen, users are able to choose to open an existing project or a
 
 #### Select the gif below to navigate to the YouTube clip:
 
-[![Concept Video](resources/concept-video.gif)](https://youtu.be/9q7DlhG5hSEhttps://youtu.be/9q7DlhG5hSE)
+[![Concept Video](resources/concept-video.gif)](https://youtu.be/9q7DlhG5hSE)
 
